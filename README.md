@@ -93,18 +93,7 @@ Downloads/
  ├── Documents/resume.pdf
  ├── Music/song.mp3
  └── Videos/video.mp4
-```
 
----
-
-## 🌟 Future Improvements
-
-* Add GUI for user-friendly interaction
-* Support for drag-and-drop folder selection
-* File logging to track moved items
-* Option to undo organization
-
----
 
 ## 🧑‍💻 Author
 

@@ -115,5 +115,4 @@ If you like this project, ⭐ star the repo — it motivates me to build more au
 
 ---
 
-Would you like me to make this **slightly shorter and recruiter-focused** (for GitHub main page readability) or keep it as this **detailed version**?
 
